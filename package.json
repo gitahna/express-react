@@ -1,0 +1,21 @@
+{
+  "name": "express-react",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "^1.1.1",
+    "ejs": "*",
+    "body-parser": "*",
+    "aws-sdk": "latest",
+    "fs": "*",
+    "express-react-views": "*",
+    "morgan": "^1.9.0",
+    "prop-types": "^15.6.0"
+  }
+}
